@@ -10,3 +10,6 @@
 
 # Settings
 /.settings/*
+/bin/*
+/.classpath
+/.project
