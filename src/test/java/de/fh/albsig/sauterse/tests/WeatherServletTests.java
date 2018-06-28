@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class WeatherServletTests {
 
-	@Test
+    @Test
     public void shouldReturnTextHtml() throws ServletException, IOException {
 
         HttpServletRequest request = mock(HttpServletRequest.class);       
